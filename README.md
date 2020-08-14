@@ -1,4 +1,4 @@
 # SCM5EQ
 Run the Jupyter Notebook to see the interactive plot
 
-https://notebooks.gesis.org/binder/jupyter/user/lchuang-scm5eq-f8289dqq/notebooks/Interactive_SCM5EQ.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lchuang/SCM5EQ/master)
